@@ -1,0 +1,4 @@
+[submodule "pytaVSL"]
+	path = pytaVSL
+	url = https://github.com/plagiatbros/pytaVSL
+
